@@ -1,0 +1,5 @@
+#### Aqui van los archivos que no quiero sean traqueados *.txt para tipo de extensiones
+#Imagenes/
+*.pyc
+#Informacion/
+#*.code-workspace
